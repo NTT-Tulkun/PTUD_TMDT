@@ -1,0 +1,87 @@
+@charset "utf-8";
+
+#container
+{
+    position: relative;
+    margin: 0px auto;
+    height: auto;
+    width: 1000px;
+}
+
+#banner
+{
+    float: left;
+    height: 150px;
+    width: 100%;
+    background:#8B9EBB;
+    margin-bottom: 2px;
+}
+
+#main
+{
+    float: left;
+    height: 500px;
+    width: 100%;
+}
+
+#left
+{
+	float:left;
+	width:150px;
+	height:100%;
+	background:#C86E6F;
+}
+
+#right
+{
+	float:right;
+	width: 848px;
+	height:100%;
+	background:#D1ACAC;
+}
+
+#footer
+{
+    float: left;
+    height: 100px;
+    width: 100%;
+    background:#8B9EBB;
+    margin-top: 2px;
+}
+
+#sanpham
+{
+    float: left;
+    height: 230px;
+    width: 180px;
+    border: solid 1px black;
+    margin: 5px 0px 0px 10px;
+}
+
+#tensp
+{
+	float:left;
+	width:100%;
+	height:30px;
+	text-align:center;
+	color:#304BB5;
+	font-weight: bold;
+}
+
+#giasp
+{
+	float:left;
+	width:100%;
+	height:30px;
+	text-align:center;
+	color:#ca3556;
+	font-weight: bold;
+}
+
+#hinh
+{
+	float:left;
+	width:100%;
+	height:170px;
+	
+}
